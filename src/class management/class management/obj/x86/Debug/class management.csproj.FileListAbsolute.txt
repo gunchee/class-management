@@ -1,0 +1,20 @@
+D:\hicheel\classmanagement\classmanagement\class management\class management\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\hicheel\classmanagement\classmanagement\class management\class management\obj\x86\Debug\class_management.Form1.resources
+D:\hicheel\classmanagement\classmanagement\class management\class management\obj\x86\Debug\class_management.Properties.Resources.resources
+D:\hicheel\classmanagement\classmanagement\class management\class management\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\hicheel\classmanagement\classmanagement\class management\class management\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\hicheel\classmanagement\classmanagement\class management\class management\bin\Debug\class management.exe
+D:\hicheel\classmanagement\classmanagement\class management\class management\bin\Debug\class management.pdb
+D:\hicheel\classmanagement\classmanagement\class management\class management\bin\Debug\Npgsql.dll
+D:\hicheel\classmanagement\classmanagement\class management\class management\bin\Debug\Mono.Security.dll
+D:\hicheel\classmanagement\classmanagement\class management\class management\bin\Debug\Npgsql.pdb
+D:\hicheel\classmanagement\classmanagement\class management\class management\bin\Debug\Npgsql.xml
+D:\hicheel\classmanagement\classmanagement\class management\class management\bin\Debug\de\Npgsql.resources.dll
+D:\hicheel\classmanagement\classmanagement\class management\class management\bin\Debug\es\Npgsql.resources.dll
+D:\hicheel\classmanagement\classmanagement\class management\class management\bin\Debug\fi\Npgsql.resources.dll
+D:\hicheel\classmanagement\classmanagement\class management\class management\bin\Debug\fr\Npgsql.resources.dll
+D:\hicheel\classmanagement\classmanagement\class management\class management\bin\Debug\ja\Npgsql.resources.dll
+D:\hicheel\classmanagement\classmanagement\class management\class management\bin\Debug\zh-CN\Npgsql.resources.dll
+D:\hicheel\classmanagement\classmanagement\class management\class management\obj\x86\Debug\class_management.Form2.resources
+D:\hicheel\classmanagement\classmanagement\class management\class management\obj\x86\Debug\class management.exe
+D:\hicheel\classmanagement\classmanagement\class management\class management\obj\x86\Debug\class management.pdb
