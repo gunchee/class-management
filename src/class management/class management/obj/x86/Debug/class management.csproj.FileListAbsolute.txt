@@ -18,3 +18,22 @@ D:\hicheel\classmanagement\classmanagement\class management\class management\bin
 D:\hicheel\classmanagement\classmanagement\class management\class management\obj\x86\Debug\class_management.Form2.resources
 D:\hicheel\classmanagement\classmanagement\class management\class management\obj\x86\Debug\class management.exe
 D:\hicheel\classmanagement\classmanagement\class management\class management\obj\x86\Debug\class management.pdb
+C:\Users\Amarsanaa\class-management\src\class management\class management\obj\x86\Debug\class management.exe
+C:\Users\Amarsanaa\class-management\src\class management\class management\obj\x86\Debug\class management.pdb
+C:\Users\Amarsanaa\class-management\src\class management\class management\bin\Debug\class management.exe
+C:\Users\Amarsanaa\class-management\src\class management\class management\bin\Debug\class management.pdb
+C:\Users\Amarsanaa\class-management\src\class management\class management\bin\Debug\Mono.Security.dll
+C:\Users\Amarsanaa\class-management\src\class management\class management\bin\Debug\Npgsql.pdb
+C:\Users\Amarsanaa\class-management\src\class management\class management\bin\Debug\Npgsql.xml
+C:\Users\Amarsanaa\class-management\src\class management\class management\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Amarsanaa\class-management\src\class management\class management\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Amarsanaa\class-management\src\class management\class management\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Amarsanaa\class-management\src\class management\class management\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Amarsanaa\class-management\src\class management\class management\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Amarsanaa\class-management\src\class management\class management\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Amarsanaa\class-management\src\class management\class management\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Amarsanaa\class-management\src\class management\class management\obj\x86\Debug\class_management.Form1.resources
+C:\Users\Amarsanaa\class-management\src\class management\class management\obj\x86\Debug\class_management.Form2.resources
+C:\Users\Amarsanaa\class-management\src\class management\class management\obj\x86\Debug\class_management.Properties.Resources.resources
+C:\Users\Amarsanaa\class-management\src\class management\class management\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Amarsanaa\class-management\src\class management\class management\obj\x86\Debug\GenerateResource.write.1.tlog
